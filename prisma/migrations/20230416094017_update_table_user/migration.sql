@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "User" ALTER COLUMN "roles" SET DEFAULT 'USER',
+ALTER COLUMN "status" SET DEFAULT 'Active';
